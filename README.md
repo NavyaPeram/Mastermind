@@ -1,2 +1,2 @@
 # Mastermind
-The mastermind game using python and socket programming
+The mastermind game created using python and socket programming
